@@ -1,5 +1,7 @@
 # 🌀 Maze Solver
 
+### 📅 Computational Thinking - December 2023
+
 Maze Solver is a Python application that generates mazes, finds the shortest path between two points in the maze, and provides visualizations using the Turtle library.
 
 ## ✨ Features
